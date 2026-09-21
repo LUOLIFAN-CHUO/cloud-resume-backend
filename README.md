@@ -65,7 +65,7 @@ Terraform state、生成された ZIP、AWS 認証情報はコミット対象外
 
 ## 関連リポジトリ
 
-- [cloud-resume-frontend](https://github.com/LUOLIFAN-CHUO/cloud-resume-frontend) — カウンターを表示する履歴書サイト
+- [typescript-practice](https://github.com/LUOLIFAN-CHUO/typescript-practice) — カウンターを表示する React/TypeScript 履歴書サイト
 - [rag-practice](https://github.com/LUOLIFAN-CHUO/rag-practice) — 履歴書 RAG アシスタント
 
 ## アーキテクチャ成果物

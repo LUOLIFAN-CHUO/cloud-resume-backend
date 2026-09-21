@@ -65,7 +65,7 @@ Terraform state, generated ZIP files, and AWS credentials must not be committed.
 
 ## Related repositories
 
-- [cloud-resume-frontend](https://github.com/LUOLIFAN-CHUO/cloud-resume-frontend) — resume site that displays the counter
+- [typescript-practice](https://github.com/LUOLIFAN-CHUO/typescript-practice) — React/TypeScript resume site that displays the counter
 - [rag-practice](https://github.com/LUOLIFAN-CHUO/rag-practice) — resume RAG assistant
 
 ## Architecture artifacts
